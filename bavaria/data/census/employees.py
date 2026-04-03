@@ -8,7 +8,7 @@ This stage loads the work flow data (Pendlerstatistik) for Bavaria.
 
 def configure(context):
     context.config("data_path")
-    context.config("bavaria.work_flow_path", "bavaria/a6502c_202200.xla")
+    context.config("bavaria.work_flow_path", "bavaria/a6502c_202200.xlsx")
 
     context.stage("bavaria.data.spatial.codes")
 
