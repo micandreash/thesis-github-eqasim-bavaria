@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run MATSimulation (not working)" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/../data/eqasim_population_bavaria/bavaria_1pct_run.jar" />
+    <option name="VM_PARAMETERS" value="-Xmx128G" />
+    <option name="PROGRAM_PARAMETERS" value="--config-path bavaria_1pct_config.xml" />
+    <option name="WORKING_DIRECTORY" value="D:\Michael_Thesis\data\eqasim_population_bavaria" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2" />
+  </configuration>
+</component>
