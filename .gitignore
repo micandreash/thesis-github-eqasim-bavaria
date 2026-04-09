@@ -9,3 +9,4 @@ data/lyon_2015
 .idea
 
 config_local_*.yml
+*.iml

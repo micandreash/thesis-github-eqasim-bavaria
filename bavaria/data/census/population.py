@@ -12,7 +12,7 @@ def configure(context):
     context.stage("bavaria.data.spatial.codes")
 
     context.config("data_path")
-    context.config("bavaria.population_path", "bavaria/a1310c_202200.xlsx")
+    context.config("bavaria.population_path", "bavaria/a1310c_202300.xlsx")
 
 def construct_municipality_id(municipality_code, association_code):
     if len(municipality_code) == 3:
